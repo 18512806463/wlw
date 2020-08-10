@@ -1,9 +1,1 @@
-#include<iostream>
-using namespace std;
-
-int main()
-{
-  cout<<"hello world"<<endl;
-  return 0;
-}
-
+8_11_02修改了三个文件
